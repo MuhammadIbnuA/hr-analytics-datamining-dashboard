@@ -1,0 +1,1069 @@
+{
+    "KMeans": {
+        "silhouette_score": 0.23256097403332043,
+        "davies_bouldin_score": 1.463494082921313,
+        "n_clusters_found": 4,
+        "n_noise_points": 0,
+        "cluster_profiles": {
+            "0": {
+                "JobSatisfaction": 1.43,
+                "PerformanceRating": 3.16,
+                "YearsAtCompany": 5.41,
+                "WorkLifeBalance": 2.78,
+                "MonthlyIncome": 5071.12
+            },
+            "1": {
+                "JobSatisfaction": 3.44,
+                "PerformanceRating": 3.02,
+                "YearsAtCompany": 5.51,
+                "WorkLifeBalance": 3.2,
+                "MonthlyIncome": 5045.11
+            },
+            "2": {
+                "JobSatisfaction": 3.45,
+                "PerformanceRating": 3.35,
+                "YearsAtCompany": 5.51,
+                "WorkLifeBalance": 2.01,
+                "MonthlyIncome": 5070.99
+            },
+            "3": {
+                "JobSatisfaction": 2.68,
+                "PerformanceRating": 3.14,
+                "YearsAtCompany": 16.49,
+                "WorkLifeBalance": 2.83,
+                "MonthlyIncome": 15436.03
+            }
+        }
+    },
+    "AgglomerativeClustering": {
+        "silhouette_score": 0.26365418634502114,
+        "davies_bouldin_score": 1.2925230981218647,
+        "n_clusters_found": 4,
+        "n_noise_points": 0,
+        "cluster_profiles": {
+            "0": {
+                "JobSatisfaction": 2.72,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.65,
+                "WorkLifeBalance": 3.13,
+                "MonthlyIncome": 5033.81
+            },
+            "1": {
+                "JobSatisfaction": 2.82,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.59,
+                "WorkLifeBalance": 1.81,
+                "MonthlyIncome": 4414.16
+            },
+            "2": {
+                "JobSatisfaction": 2.61,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 14.34,
+                "WorkLifeBalance": 2.7,
+                "MonthlyIncome": 15430.42
+            },
+            "3": {
+                "JobSatisfaction": 2.73,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 6.92,
+                "WorkLifeBalance": 2.77,
+                "MonthlyIncome": 6254.41
+            }
+        }
+    },
+    "MiniBatchKMeans": {
+        "silhouette_score": 0.23106861771404918,
+        "davies_bouldin_score": 1.4221971962705995,
+        "n_clusters_found": 4,
+        "n_noise_points": 0,
+        "cluster_profiles": {
+            "0": {
+                "JobSatisfaction": 3.44,
+                "PerformanceRating": 3.25,
+                "YearsAtCompany": 5.07,
+                "WorkLifeBalance": 1.87,
+                "MonthlyIncome": 4893.94
+            },
+            "1": {
+                "JobSatisfaction": 1.44,
+                "PerformanceRating": 3.16,
+                "YearsAtCompany": 5.29,
+                "WorkLifeBalance": 2.79,
+                "MonthlyIncome": 5090.06
+            },
+            "2": {
+                "JobSatisfaction": 3.45,
+                "PerformanceRating": 3.1,
+                "YearsAtCompany": 5.88,
+                "WorkLifeBalance": 3.19,
+                "MonthlyIncome": 5358.45
+            },
+            "3": {
+                "JobSatisfaction": 2.67,
+                "PerformanceRating": 3.14,
+                "YearsAtCompany": 17.19,
+                "WorkLifeBalance": 2.79,
+                "MonthlyIncome": 15517.78
+            }
+        }
+    },
+    "Birch": {
+        "silhouette_score": 0.2645060686566474,
+        "davies_bouldin_score": 1.3216785875283605,
+        "n_clusters_found": 4,
+        "n_noise_points": 0,
+        "cluster_profiles": {
+            "0": {
+                "JobSatisfaction": 2.73,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 6.92,
+                "WorkLifeBalance": 2.77,
+                "MonthlyIncome": 6254.41
+            },
+            "1": {
+                "JobSatisfaction": 2.7,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 6.72,
+                "WorkLifeBalance": 1.88,
+                "MonthlyIncome": 5820.7
+            },
+            "2": {
+                "JobSatisfaction": 2.41,
+                "PerformanceRating": 3.01,
+                "YearsAtCompany": 23.41,
+                "WorkLifeBalance": 2.92,
+                "MonthlyIncome": 16761.04
+            },
+            "3": {
+                "JobSatisfaction": 2.77,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.56,
+                "WorkLifeBalance": 3.15,
+                "MonthlyIncome": 5883.2
+            }
+        }
+    },
+    "SpectralClustering": {
+        "silhouette_score": 0.3461870243100184,
+        "davies_bouldin_score": 1.20851397750813,
+        "n_clusters_found": 4,
+        "n_noise_points": 0,
+        "cluster_profiles": {
+            "0": {
+                "JobSatisfaction": 2.73,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.75,
+                "WorkLifeBalance": 2.75,
+                "MonthlyIncome": 5789.68
+            },
+            "1": {
+                "JobSatisfaction": 2.86,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 14.31,
+                "WorkLifeBalance": 2.79,
+                "MonthlyIncome": 16142.1
+            },
+            "2": {
+                "JobSatisfaction": 2.59,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 23.02,
+                "WorkLifeBalance": 2.84,
+                "MonthlyIncome": 16117.52
+            },
+            "3": {
+                "JobSatisfaction": 2.71,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 5.99,
+                "WorkLifeBalance": 2.76,
+                "MonthlyIncome": 4873.54
+            }
+        }
+    },
+    "GaussianMixture": {
+        "silhouette_score": 0.27956326142173166,
+        "davies_bouldin_score": 1.486879353082069,
+        "n_clusters_found": 4,
+        "n_noise_points": 0,
+        "cluster_profiles": {
+            "0": {
+                "JobSatisfaction": 1.46,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 5.33,
+                "WorkLifeBalance": 2.89,
+                "MonthlyIncome": 4496.75
+            },
+            "1": {
+                "JobSatisfaction": 2.72,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 6.95,
+                "WorkLifeBalance": 2.76,
+                "MonthlyIncome": 6530.87
+            },
+            "2": {
+                "JobSatisfaction": 3.47,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 7.83,
+                "WorkLifeBalance": 2.69,
+                "MonthlyIncome": 6900.01
+            },
+            "3": {
+                "JobSatisfaction": 2.29,
+                "PerformanceRating": 3.71,
+                "YearsAtCompany": 19.71,
+                "WorkLifeBalance": 2.71,
+                "MonthlyIncome": 16474.43
+            }
+        }
+    },
+    "DBSCAN": {
+        "silhouette_score": 0.1494131483341048,
+        "davies_bouldin_score": 1.3810167554152604,
+        "n_clusters_found": 20,
+        "n_noise_points": 311,
+        "cluster_profiles": {
+            "-1": {
+                "JobSatisfaction": 2.59,
+                "PerformanceRating": 3.32,
+                "YearsAtCompany": 12.64,
+                "WorkLifeBalance": 2.55,
+                "MonthlyIncome": 12050.71
+            },
+            "0": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.48,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 4882.78
+            },
+            "1": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.37,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 5284.03
+            },
+            "2": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.93,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 5425.83
+            },
+            "3": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.03,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 4901.31
+            },
+            "4": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.33,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 4219.33
+            },
+            "5": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 3.79,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 3457.29
+            },
+            "6": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 5.52,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 4110.8
+            },
+            "7": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.51,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 5588.46
+            },
+            "8": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.3,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 4603.17
+            },
+            "9": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 4.58,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 4177.47
+            },
+            "10": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 6.64,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 5176.56
+            },
+            "11": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.95,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 5032.45
+            },
+            "12": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 5.63,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 4055.77
+            },
+            "13": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 6.91,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 4460.12
+            },
+            "14": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 6.7,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 4276.04
+            },
+            "15": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 4.38,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 3900.5
+            },
+            "16": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.76,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 4101.88
+            },
+            "17": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 3.42,
+                "WorkLifeBalance": 1.0,
+                "MonthlyIncome": 3688.67
+            },
+            "18": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.64,
+                "WorkLifeBalance": 1.0,
+                "MonthlyIncome": 3833.64
+            },
+            "19": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.5,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 16856.7
+            }
+        }
+    },
+    "MeanShift": {
+        "silhouette_score": 0.3425444619309507,
+        "davies_bouldin_score": 1.3228134573027202,
+        "n_clusters_found": 2,
+        "n_noise_points": 0,
+        "cluster_profiles": {
+            "0": {
+                "JobSatisfaction": 2.72,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 7.0,
+                "WorkLifeBalance": 2.76,
+                "MonthlyIncome": 6539.74
+            },
+            "1": {
+                "JobSatisfaction": 2.73,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 7.05,
+                "WorkLifeBalance": 2.77,
+                "MonthlyIncome": 6313.14
+            }
+        }
+    },
+    "OPTICS": {
+        "silhouette_score": -0.18263122365847864,
+        "davies_bouldin_score": 1.3184752630539485,
+        "n_clusters_found": 30,
+        "n_noise_points": 904,
+        "cluster_profiles": {
+            "-1": {
+                "JobSatisfaction": 2.85,
+                "PerformanceRating": 3.11,
+                "YearsAtCompany": 8.28,
+                "WorkLifeBalance": 2.83,
+                "MonthlyIncome": 7838.82
+            },
+            "0": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 2.0,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 2614.33
+            },
+            "1": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.0,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 4404.86
+            },
+            "2": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 1.0,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 2393.44
+            },
+            "3": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.0,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 4674.86
+            },
+            "4": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 9.83,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 6473.17
+            },
+            "5": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.53,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 4509.11
+            },
+            "6": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 1.08,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 2454.85
+            },
+            "7": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 9.67,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 4195.67
+            },
+            "8": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 6.46,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 9886.46
+            },
+            "9": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 2.0,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 2734.88
+            },
+            "10": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 9.76,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 5310.29
+            },
+            "11": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.3,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 4302.33
+            },
+            "12": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 3.03,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 2829.81
+            },
+            "13": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 6.1,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 5763.3
+            },
+            "14": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.28,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 2729.22
+            },
+            "15": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 9.69,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 4821.15
+            },
+            "16": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 1.36,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 2569.91
+            },
+            "17": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.46,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 4800.69
+            },
+            "18": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.61,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 4645.06
+            },
+            "19": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 3.79,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 3457.29
+            },
+            "20": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.76,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 4101.88
+            },
+            "21": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.4,
+                "WorkLifeBalance": 1.0,
+                "MonthlyIncome": 4393.67
+            },
+            "22": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 3.73,
+                "WorkLifeBalance": 1.0,
+                "MonthlyIncome": 4450.18
+            },
+            "23": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.9,
+                "WorkLifeBalance": 1.0,
+                "MonthlyIncome": 3401.1
+            },
+            "24": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 7.36,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 5040.36
+            },
+            "25": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 2.82,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 2855.64
+            },
+            "26": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 10.0,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 4883.77
+            },
+            "27": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 4.38,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 3900.5
+            },
+            "28": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 5.52,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 4110.8
+            },
+            "29": {
+                "JobSatisfaction": 3.16,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 5.53,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 5681.6
+            }
+        }
+    },
+    "AffinityPropagation": {
+        "silhouette_score": 0.35081066033435165,
+        "davies_bouldin_score": 0.9799929705137319,
+        "n_clusters_found": 63,
+        "n_noise_points": 0,
+        "cluster_profiles": {
+            "0": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 3.1,
+                "WorkLifeBalance": 1.0,
+                "MonthlyIncome": 4398.6
+            },
+            "1": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 2.85,
+                "WorkLifeBalance": 3.08,
+                "MonthlyIncome": 2735.31
+            },
+            "2": {
+                "JobSatisfaction": 1.69,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 3.69,
+                "WorkLifeBalance": 1.0,
+                "MonthlyIncome": 3790.96
+            },
+            "3": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 3.88,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 3862.67
+            },
+            "4": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.06,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 3452.06
+            },
+            "5": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.76,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 4101.88
+            },
+            "6": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 3.28,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 3090.08
+            },
+            "7": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 2.93,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 3884.53
+            },
+            "8": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 5.21,
+                "WorkLifeBalance": 3.03,
+                "MonthlyIncome": 3880.86
+            },
+            "9": {
+                "JobSatisfaction": 1.25,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 5.25,
+                "WorkLifeBalance": 1.92,
+                "MonthlyIncome": 5497.75
+            },
+            "10": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 3.82,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 4369.82
+            },
+            "11": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 2.79,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 2964.49
+            },
+            "12": {
+                "JobSatisfaction": 3.88,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.62,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 16754.75
+            },
+            "13": {
+                "JobSatisfaction": 3.75,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 9.81,
+                "WorkLifeBalance": 1.81,
+                "MonthlyIncome": 5960.19
+            },
+            "14": {
+                "JobSatisfaction": 1.19,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 6.5,
+                "WorkLifeBalance": 1.94,
+                "MonthlyIncome": 9579.88
+            },
+            "15": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 8.97,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 5262.94
+            },
+            "16": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.2,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 3526.13
+            },
+            "17": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 8.08,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 6337.27
+            },
+            "18": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 3.62,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 2939.75
+            },
+            "19": {
+                "JobSatisfaction": 3.35,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.57,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 16798.87
+            },
+            "20": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 2.83,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 3501.68
+            },
+            "21": {
+                "JobSatisfaction": 3.27,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 16.27,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 4702.67
+            },
+            "22": {
+                "JobSatisfaction": 3.93,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 3.5,
+                "WorkLifeBalance": 1.0,
+                "MonthlyIncome": 4102.36
+            },
+            "23": {
+                "JobSatisfaction": 3.81,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 15.94,
+                "WorkLifeBalance": 1.94,
+                "MonthlyIncome": 9637.38
+            },
+            "24": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 8.84,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 5621.21
+            },
+            "25": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 3.76,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 4223.05
+            },
+            "26": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 8.29,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 8115.84
+            },
+            "27": {
+                "JobSatisfaction": 3.27,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 7.82,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 8780.91
+            },
+            "28": {
+                "JobSatisfaction": 3.76,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 3.12,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 3693.65
+            },
+            "29": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 8.9,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 5428.04
+            },
+            "30": {
+                "JobSatisfaction": 3.14,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 11.0,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 5911.1
+            },
+            "31": {
+                "JobSatisfaction": 1.69,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 15.69,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 5043.06
+            },
+            "32": {
+                "JobSatisfaction": 3.23,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.92,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 14766.38
+            },
+            "33": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 1.86,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 3083.86
+            },
+            "34": {
+                "JobSatisfaction": 2.86,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 21.48,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 18559.48
+            },
+            "35": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 8.28,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 3786.36
+            },
+            "36": {
+                "JobSatisfaction": 3.7,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 16.5,
+                "WorkLifeBalance": 3.05,
+                "MonthlyIncome": 11674.6
+            },
+            "37": {
+                "JobSatisfaction": 2.92,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 10.58,
+                "WorkLifeBalance": 1.0,
+                "MonthlyIncome": 5293.58
+            },
+            "38": {
+                "JobSatisfaction": 1.14,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 10.64,
+                "WorkLifeBalance": 3.07,
+                "MonthlyIncome": 6279.57
+            },
+            "39": {
+                "JobSatisfaction": 1.86,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 22.86,
+                "WorkLifeBalance": 2.43,
+                "MonthlyIncome": 14494.29
+            },
+            "40": {
+                "JobSatisfaction": 3.12,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 11.58,
+                "WorkLifeBalance": 3.04,
+                "MonthlyIncome": 6181.46
+            },
+            "41": {
+                "JobSatisfaction": 3.56,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 16.89,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 16112.11
+            },
+            "42": {
+                "JobSatisfaction": 1.33,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 5.67,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 16921.33
+            },
+            "43": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 6.12,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 4927.56
+            },
+            "44": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 2.98,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 6387.41
+            },
+            "45": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.42,
+                "WorkLifeBalance": 3.04,
+                "MonthlyIncome": 10244.88
+            },
+            "46": {
+                "JobSatisfaction": 1.79,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 6.64,
+                "WorkLifeBalance": 1.93,
+                "MonthlyIncome": 16695.36
+            },
+            "47": {
+                "JobSatisfaction": 1.64,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 5.07,
+                "WorkLifeBalance": 3.07,
+                "MonthlyIncome": 18571.86
+            },
+            "48": {
+                "JobSatisfaction": 1.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 26.67,
+                "WorkLifeBalance": 1.33,
+                "MonthlyIncome": 18774.33
+            },
+            "49": {
+                "JobSatisfaction": 1.17,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 18.83,
+                "WorkLifeBalance": 3.17,
+                "MonthlyIncome": 13780.44
+            },
+            "50": {
+                "JobSatisfaction": 2.88,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 19.38,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 16075.38
+            },
+            "51": {
+                "JobSatisfaction": 3.7,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 3.8,
+                "WorkLifeBalance": 2.7,
+                "MonthlyIncome": 14884.2
+            },
+            "52": {
+                "JobSatisfaction": 2.93,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 2.7,
+                "WorkLifeBalance": 2.0,
+                "MonthlyIncome": 3800.25
+            },
+            "53": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 4.57,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 10489.9
+            },
+            "54": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 32.7,
+                "WorkLifeBalance": 3.2,
+                "MonthlyIncome": 17744.3
+            },
+            "55": {
+                "JobSatisfaction": 3.71,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 32.71,
+                "WorkLifeBalance": 2.71,
+                "MonthlyIncome": 13611.57
+            },
+            "56": {
+                "JobSatisfaction": 3.27,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 21.27,
+                "WorkLifeBalance": 1.93,
+                "MonthlyIncome": 17021.0
+            },
+            "57": {
+                "JobSatisfaction": 1.97,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 7.55,
+                "WorkLifeBalance": 1.97,
+                "MonthlyIncome": 4226.45
+            },
+            "58": {
+                "JobSatisfaction": 2.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 7.76,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 10083.76
+            },
+            "59": {
+                "JobSatisfaction": 3.0,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 6.25,
+                "WorkLifeBalance": 1.0,
+                "MonthlyIncome": 13053.5
+            },
+            "60": {
+                "JobSatisfaction": 4.0,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 36.0,
+                "WorkLifeBalance": 3.0,
+                "MonthlyIncome": 19586.0
+            },
+            "61": {
+                "JobSatisfaction": 1.38,
+                "PerformanceRating": 4.0,
+                "YearsAtCompany": 3.12,
+                "WorkLifeBalance": 4.0,
+                "MonthlyIncome": 3480.0
+            },
+            "62": {
+                "JobSatisfaction": 1.14,
+                "PerformanceRating": 3.0,
+                "YearsAtCompany": 20.0,
+                "WorkLifeBalance": 2.14,
+                "MonthlyIncome": 6892.57
+            }
+        }
+    }
+}
